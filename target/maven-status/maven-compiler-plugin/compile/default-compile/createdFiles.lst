@@ -1,6 +1,0 @@
-com/cruise/entity/PauseParameter.class
-com/cruise/application/Application.class
-com/cruise/repository/PauseParameterRepository.class
-com/cruise/entity/PauseParameterKey.class
-com/cruise/application/SpringFoxConfig.class
-com/cruise/rest/PauseParameterRestService.class
