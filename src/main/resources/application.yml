@@ -1,0 +1,10 @@
+spring:
+  jpa:
+    database: MYSQL
+    show-sql: true
+  datasource:
+    platform: MYSQL
+    url: jdbc:mariadb://localhost:3306/cruise
+    username: root
+    password: example
+    driverClassName: org.mariadb.jdbc.Driver
